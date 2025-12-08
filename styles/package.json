@@ -9,6 +9,6 @@
     "build-css-watch-out": "node-sass --recursive --watch  --include-path scss xrpl.scss ../out/assets/css/devportal2021-v4.css --output-style compressed --source-map true"
   },
   "dependencies": {
-    "sass": "^1.26.10"
+    "sass": "^1.94.0"
   }
 }
